@@ -1,9 +1,7 @@
 
-<h1>hi human! :wave:</h1>
+<h1>Hi! Im Brokentoken:</h1>
 
-<h3>who am i?</h3>
 
-<img src="https://github.com/khalby786/khalby786/blob/master/header.png?raw=true">
 
 <h3>My Fav Coding Languges</h3>
 
