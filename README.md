@@ -10,9 +10,8 @@
 
 <h3>Languges I'm Learning </h3>
 
-<br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40px"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40px">
 
 <h3>My Projects</h3>
 <a href="https://github.com/freshclass/Freshclass">Freshclass</a>
